@@ -1,0 +1,1 @@
+# Scoring Methodology\n\nThe segment priority heuristic combines normalized heat exposure, shade gap, pedestrian volume, impervious surface and dryness signals. It is a planning screen, not a predictive guarantee.\n

@@ -1,0 +1,21 @@
+site_id,zone,recommended_intervention,cooling_potential_c,shade_deficit_km2,pedestrians_exposed_day,estimated_cost,priority_score
+SITE-001,Central Plaza,Shaded Walkways,3.31,0.72,9111,25637,100.0
+SITE-002,Market Street,Cool Roofs,2.8,0.6,17789,102805,100.0
+SITE-003,Riverside Walk,Shade Structures,4.84,0.71,2768,102520,100.0
+SITE-004,Bus Terminal,Tree Planting,3.98,0.69,3664,171424,97.9
+SITE-005,School Zone,Shaded Walkways,2.45,0.68,10393,39493,76.4
+SITE-006,Civic Avenue,Cool Roofs,3.38,0.7,11848,174376,100.0
+SITE-007,Greenwood East,Shade Structures,4.53,0.49,4114,20113,100.0
+SITE-008,Harbor Road,Tree Planting,3.48,0.46,12927,72912,100.0
+SITE-009,Central Plaza,Shaded Walkways,2.81,0.96,3135,57695,92.0
+SITE-010,Market Street,Cool Roofs,3.04,0.77,5872,72856,95.6
+SITE-011,Riverside Walk,Shade Structures,3.34,0.85,15807,109991,100.0
+SITE-012,Bus Terminal,Tree Planting,2.7,0.71,10811,140419,94.7
+SITE-013,School Zone,Shaded Walkways,4.91,0.52,11773,90681,100.0
+SITE-014,Civic Avenue,Cool Roofs,3.98,0.55,2557,115044,89.7
+SITE-015,Greenwood East,Shade Structures,2.16,0.59,3432,34745,60.7
+SITE-016,Harbor Road,Tree Planting,3.9,0.27,13550,117965,100.0
+SITE-017,Central Plaza,Shaded Walkways,4.37,0.24,17595,91907,100.0
+SITE-018,Market Street,Cool Roofs,2.51,0.46,7681,172908,75.6
+SITE-019,Riverside Walk,Shade Structures,4.43,0.81,1327,45359,100.0
+SITE-020,Bus Terminal,Tree Planting,3.2,0.92,4889,15085,97.2

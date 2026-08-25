@@ -1,0 +1,1 @@
+# Scoring Methodology\n\nTransparent weighted screening and user-adjustable intervention scenario scoring.\n

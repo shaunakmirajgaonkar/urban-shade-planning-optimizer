@@ -1,0 +1,1 @@
+# Responsible Use\n\nUse as planning support, not as automatic site-selection or public-health decision authority.\n

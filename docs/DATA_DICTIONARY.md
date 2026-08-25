@@ -1,0 +1,1 @@
+# Data Dictionary\n\nOperational fields are represented in the sample CSVs.\n

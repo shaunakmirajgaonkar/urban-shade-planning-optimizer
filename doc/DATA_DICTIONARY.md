@@ -1,0 +1,1 @@
+# Data Dictionary\n\nSee `data/sample_urban_shade_registry.csv` and `data/sample_shade_opportunities.csv`.\n
